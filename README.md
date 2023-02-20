@@ -1,3 +1,4 @@
+![Build And Testing](https://github.com/khairu-aqsara/sideol-client/actions/workflows/php.yml/badge.svg)
 <p align="center">
     <h3 align="center">Sideol PHP Client</h3>
     <p align="center">A PHP client for interacting with Sideol Engine</p>
