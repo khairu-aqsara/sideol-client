@@ -29,3 +29,6 @@ jobs:
 
     - name: Run test suite
       run: composer testsnix
+      
+    - name: Upload coverage reports to Codecov
+      uses: codecov/codecov-action@v3
