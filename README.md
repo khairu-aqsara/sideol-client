@@ -1,5 +1,4 @@
-![Build And Testing](https://github.com/khairu-aqsara/sideol-client/actions/workflows/php.yml/badge.svg) [![codecov](https://codecov.io/gh/khairu-aqsara/sideol-client/branch/main/graph/badge.svg?token=3CQWVHH3T6)](https://codecov.io/gh/khairu-aqsara/sideol-client) [![Known Vulnerabilities](https://snyk.io/test/github/khairu-aqsara/sideol-client/badge.svg)](https://snyk.io/test/github/khairu-aqsara/sideol-client)
-
+![Build And Testing](https://github.com/khairu-aqsara/sideol-client/actions/workflows/php.yml/badge.svg) [![codecov](https://codecov.io/gh/khairu-aqsara/sideol-client/branch/main/graph/badge.svg?token=3CQWVHH3T6)](https://codecov.io/gh/khairu-aqsara/sideol-client)
 <p align="center">
     <h3 align="center">Sideol PHP Client</h3>
     <p align="center">A PHP client for interacting with Sideol Engine</p>
