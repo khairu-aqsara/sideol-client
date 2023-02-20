@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://pilarsolusi.com/wp-content/uploads/2017/03/logo.png" alt="Pilar Cipta Solusi" width="150" height="140" />
+    <img src="http://pilarsolusi.com/wp-content/uploads/2017/03/logo.png" alt="Pilar Cipta Solusi" width="150" height="140" />
     <h3 align="center">Sideol PHP Client</h3>
     <p align="center">A PHP client for interacting with Sideol Engine</p>
 </p>
